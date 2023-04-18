@@ -33,8 +33,8 @@ DEV Technologies:
 <br/>
 <br/>
 <div style="display:flex; flex-direction: row; justify-content:center; align-items:center; gap: 5px">
-<img alt='ReactJS' src='./img/tecnologias.jpg'  />
-
+<img alt='ReactJS' src='./img/tecnologias2.png'  />
+</div>
 
 
 
