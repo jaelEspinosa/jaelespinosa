@@ -27,9 +27,9 @@ Esto es la realidad de que no siempre los resultados llegan a la primera,  y a v
 
 </div>
 
-## Tecnologías:
+## Dev. Tecnologías:
 <br/>
-DEV Technologies:
+
 <br/>
 <br/>
 <div style="display:flex; flex-direction: row; justify-content:center; align-items:center; gap: 5px">
@@ -45,12 +45,8 @@ DEV Technologies:
 
 <br/>
 <div style="display:flex; flex-direction: row; justify-content:center; align-items:center; gap: 5px">
-<img alt='github' src='./img/github.jpeg' style = 'width:52px;border-radius: 8px' />
-<img alt='git' src='./img/git.png' style = 'width:52px;border-radius: 8px'/>
-<img alt='postman' src='./img/postman.jpg' style = 'width:52px;border-radius: 8px;' />
-<img alt='vscode' src='./img/visualstudio_code.png' style = 'width:52px;border-radius: 8px' />
-<img alt='teams' src='./img/teams.jpg' style = 'width:52px;border-radius: 8px' />
-<img alt='Mongocompass' src='./img/mongocompas.jpg' style = 'width:52px;border-radius: 8px' />
+<img alt='github' src='./img/herramientas_sin_fondo.png'  />
+
 </div>
 <br/>
 <br/>
