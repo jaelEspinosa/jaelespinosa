@@ -34,7 +34,7 @@ DEV Technologies:
 <br/>
 <br/>
 <div style="display:flex; flex-direction: row; justify-content:center; align-items:center; gap: 5px">
-<img alt='ReactJS' src='./img/react-logo.jpg'  style = 'width:82px; height: 30px; border-radius: 8px'/>
+<img alt='ReactJS' src='./img/react-logo.jpg'  style = 'width:82px; height: 30px' class="imagen-redondeada"/>
 <img alt='AngularJs' src='./img/angular.jpg'  style = 'width:82px; height: 30px; border-radius: 8px'/>
 <img alt='JS' src='./img/javascript.jpeg'  style = 'width:82px; height: 30px; border-radius: 8px'/>
 <img alt='typescritpJS' src='./img/typescritpt.png'  style = 'width:82px; height: 30px; border-radius: 8px'/>
@@ -74,7 +74,11 @@ DEV Technologies:
 <br/>
 
 
-
+<style>
+  .imagen-redondeada {
+    border-radius: 10px;
+  }
+</style>
 
 
 [linkedin]:https://www.linkedin.com/in/jose-antonio-espinosa-lucia/
