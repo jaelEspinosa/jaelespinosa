@@ -17,6 +17,16 @@
  "Para obtener resultados distintos has de realizar tareas distintas."
 
 Esto es la realidad de que no siempre los resultados llegan a la primera,  y a veces hay que cambiar de estrategia.
+<br/>
+<br/>
+
+## Certificaciones:
+<br/>
+<div style="display:flex; flex-direction: row; justify-content:flex-start; align-items:center; gap: 5px">
+<img alt='Upgrade' src='./img/upgradeHub.jpg' style = 'width:300px;border-radius: 8px' />
+<img alt='Upgrade' src='./img/reactUdemy.jpg' style = 'width:300px;border-radius: 8px' />
+<img alt='Upgrade' src='./img/nextUdemy.jpg' style = 'width:300px;border-radius: 8px' />
+</div>
 
 ## Tecnologías:
 <br/>
@@ -56,12 +66,7 @@ Esto es la realidad de que no siempre los resultados llegan a la primera,  y a v
 <br/>
 <br/>
 
-## Certificaciones:
-<br/>
 
-<img alt='Upgrade' src='./img/upgradeHub.jpg' style = 'width:300px;border-radius: 8px' />
-<img alt='Upgrade' src='./img/reactUdemy.jpg' style = 'width:300px;border-radius: 8px' />
-<img alt='Upgrade' src='./img/nextUdemy.jpg' style = 'width:300px;border-radius: 8px' />
 
 
 
