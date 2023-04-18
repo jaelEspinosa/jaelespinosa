@@ -34,30 +34,32 @@ DEV Technologies:
 <br/>
 <br/>
 <div style="display:flex; flex-direction: row; justify-content:flex-start; align-items:center; gap: 5px">
-<img alt='ReactJS' src='https://img.shields.io/badge/-ReactJS-51CBF2?style=flat&logo=react&logoColor=white&style=plastic' />
-<img alt='Angular' src='https://swansoftwaresolutions.com/wp-content/uploads/2019/04/The-Fundamentals-of-AngularJS-Framework-in-Programming-1024x576.jpg' style = 'width:82px; height: 27px; border-radius: 8px' />
-<img alt='JavaScript' src='https://img.shields.io/badge/-Javascript-F7DF1E?logo=javascript&logoColor=white&style=plastic' />
-<img alt='TypeScript' src='https://img.shields.io/badge/-TypeScript-007acc?logo=typescript&logoColor=white&style=plastic' />
-<img alt='Sass' src="https://img.shields.io/badge/-Sass-CC6699?style=flat&logo=sass&logoColor=white&style=plastic" />
-<img alt='Bootstrap' src='https://img.shields.io/badge/-Bootsrap-7952B3?logo=bootstrap&logoColor=white&style=plastic' />
-<img alt='Jest' src='https://img.shields.io/badge/-Jest-FFA787?logo=jest&logoColor=white&style=plastic' />
+<img alt='ReactJS' src='./img/react-logo.jpg'  style = 'width:82px; height: 30px; border-radius: 8px'/>
+<img alt='ReactJS' src='./img/angular.jpg'  style = 'width:82px; height: 30px; border-radius: 8px'/>
+<img alt='ReactJS' src='./img/javascript.jpeg'  style = 'width:82px; height: 30px; border-radius: 8px'/>
+<img alt='ReactJS' src='./img/typescritpt.png'  style = 'width:82px; height: 30px; border-radius: 8px'/>
+<img alt='ReactJS' src='./img/express.png'  style = 'width:82px; height: 30px; border-radius: 8px'/>
+<img alt='ReactJS' src='./img/sass.png'  style = 'width:82px; height: 30px; border-radius: 8px'/>
+
 </div>
 <br/>
-
 <div style="display:flex; flex-direction: row; justify-content:flex-start; align-items:center; gap: 5px">
-<img alt='NodeJS' src='https://img.shields.io/badge/-NodeJs-339933?logo=Nodejs&logoColor=white&style=plastic' />
-<img alt='ExpressJS' src='http://img.shields.io/badge/-Express-black?style=flat&logo=express&logoColor=white&style=plastic' />
-<img alt='NPM' src='https://img.shields.io/badge/-NPM-CB3837?style=flat&logo=npm&logoColor=white&style=plastic' />
-<img alt='MongoDB' src='http://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white&style=plastic' />
-<img alt='MySQL' src='https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=plastic' />
+<img alt='ReactJS' src='./img/Node.JS-1.jpg'  style = 'width:82px; height: 30px; border-radius: 8px'/>
+<img alt='ReactJS' src='./img/npm.png'  style = 'width:82px; height: 30px; border-radius: 8px'/>
+<img alt='ReactJS' src='./img/mongodb.jpg'  style = 'width:82px; height: 30px; border-radius: 8px'/>
+<img alt='ReactJS' src='./img/bootstrap.png'  style = 'width:82px; height: 30px; border-radius: 8px'/>
+
+
 </div>
 
+
 <br/>
-<br/>
+<hr/>
 
 
 
 ## Herramientas:
+
 <br/>
 <div style="display:flex; flex-direction: row; justify-content:flex-start; align-items:center; gap: 5px">
 <img alt='MongoDB' src='https://res.cloudinary.com/practicaldev/image/fetch/s--sWV8Y0kc--/c_imagga_scale,f_auto,fl_progressive,h_900,q_auto,w_1600/https://dev-to-uploads.s3.amazonaws.com/i/kml9j34p9taplrnqtcez.jpg' style = 'width:52px;border-radius: 8px' />
