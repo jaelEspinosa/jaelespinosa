@@ -35,6 +35,7 @@ DEV Technologies:
 <br/>
 <div style="display:flex; flex-direction: row; justify-content:flex-start; align-items:center; gap: 5px">
 <img alt='ReactJS' src='https://img.shields.io/badge/-ReactJS-51CBF2?style=flat&logo=react&logoColor=white&style=plastic' />
+<img alt='Angular' src='https://swansoftwaresolutions.com/wp-content/uploads/2019/04/The-Fundamentals-of-AngularJS-Framework-in-Programming-1024x576.jpg' style = 'width:82px; height: 27px; border-radius: 8px' />
 <img alt='JavaScript' src='https://img.shields.io/badge/-Javascript-F7DF1E?logo=javascript&logoColor=white&style=plastic' />
 <img alt='TypeScript' src='https://img.shields.io/badge/-TypeScript-007acc?logo=typescript&logoColor=white&style=plastic' />
 <img alt='Sass' src="https://img.shields.io/badge/-Sass-CC6699?style=flat&logo=sass&logoColor=white&style=plastic" />
