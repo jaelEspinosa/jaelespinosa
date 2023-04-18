@@ -30,25 +30,24 @@ Esto es la realidad de que no siempre los resultados llegan a la primera,  y a v
 
 ## Tecnologías:
 <br/>
-<div style="display:flex; flex-direction: row; justify-content:flex-start; align-items:center; gap: 5px">
-<img alt='ReactJS' src='https://sigdeletras.com/images/blog/202004_react_leaflet/react.png' style = 'width:52px;border-radius: 8px' />
-<img alt='Angular' src='https://blog.e-saurio.com/content/images/2023/02/the-seo-guide-to-angular.png' style = 'width:52px;border-radius: 8px' />
-<img alt='JavaScript' src='https://arielfuggini.com/static/29a9f86a9bd7efd96ee9ce8b13124303/a41d1/javascript.jpg' style = 'width:52px;border-radius: 8px'  />
-<img alt='TypeScript' src='https://cdn.thenewstack.io/media/2022/01/10b88c68-typescript-logo.png' style = 'width:52px;border-radius: 8px'/>
-<img alt='Sass' src="https://i0.wp.com/techprimelab.com/wp-content/uploads/2020/06/SCSS-or-CSS.jpg?fit=1024%2C576&ssl=1" style = 'width:52px;border-radius: 8px' />
-<img alt='Bootstrap' src='https://getbootstrap.com/docs/5.3/assets/brand/bootstrap-social.png' style = 'width:52px;border-radius: 8px' />
-<img alt='Bootstrap' src='https://res.cloudinary.com/practicaldev/image/fetch/s--hNNbPNwB--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/ilxs4qnlqlvvai9nm7vg.png' style = 'width:52px;border-radius: 8px' />
-</div>
-
+DEV Technologies:
 <br/>
-<div style="display:flex; flex-direction: row; justify-content:flex-start; align-items:center; gap: 5px">
-<img alt='Bootstrap' src='https://cdn-media-1.freecodecamp.org/images/1*FDNeKIUeUnf0XdqHmi7nsw.png' style = 'width:52px;border-radius: 8px' />
+<br/>
+<img alt='ReactJS' src='https://img.shields.io/badge/-ReactJS-51CBF2?style=flat&logo=react&logoColor=white&style=plastic' />
+<img alt='JavaScript' src='https://img.shields.io/badge/-Javascript-F7DF1E?logo=javascript&logoColor=white&style=plastic' />
+<img alt='TypeScript' src='https://img.shields.io/badge/-TypeScript-007acc?logo=typescript&logoColor=white&style=plastic' />
+<img alt='Sass' src="https://img.shields.io/badge/-Sass-CC6699?style=flat&logo=sass&logoColor=white&style=plastic" />
+<img alt='Bootstrap' src='https://img.shields.io/badge/-Bootsrap-7952B3?logo=bootstrap&logoColor=white&style=plastic' />
+
+<img alt='Jest' src='https://img.shields.io/badge/-Jest-FFA787?logo=jest&logoColor=white&style=plastic' />
+
 <img alt='NodeJS' src='https://img.shields.io/badge/-NodeJs-339933?logo=Nodejs&logoColor=white&style=plastic' />
-<img alt='ExpressJS' src='https://miro.medium.com/v2/resize:fit:365/1*Jr3NFSKTfQWRUyjblBSKeg.png' style = 'width:52px;border-radius: 8px' />
+<img alt='ExpressJS' src='http://img.shields.io/badge/-Express-black?style=flat&logo=express&logoColor=white&style=plastic' />
 <img alt='NPM' src='https://img.shields.io/badge/-NPM-CB3837?style=flat&logo=npm&logoColor=white&style=plastic' />
-<img alt='MongoDB' src='https://webimages.mongodb.com/_com_assets/cms/kuzt9r42or1fxvlq2-Meta_Generic.png' style = 'width:52px;border-radius: 8px' />
+<img alt='MongoDB' src='http://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white&style=plastic' />
 <img alt='MySQL' src='https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=plastic' />
-</div>
+
+
 <br/>
 <br/>
 
