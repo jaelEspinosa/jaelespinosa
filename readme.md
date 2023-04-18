@@ -33,18 +33,23 @@ Esto es la realidad de que no siempre los resultados llegan a la primera,  y a v
 DEV Technologies:
 <br/>
 <br/>
+<div style="display:flex; flex-direction: row; justify-content:flex-start; align-items:center; gap: 5px">
 <img alt='ReactJS' src='https://img.shields.io/badge/-ReactJS-51CBF2?style=flat&logo=react&logoColor=white&style=plastic' />
 <img alt='JavaScript' src='https://img.shields.io/badge/-Javascript-F7DF1E?logo=javascript&logoColor=white&style=plastic' />
 <img alt='TypeScript' src='https://img.shields.io/badge/-TypeScript-007acc?logo=typescript&logoColor=white&style=plastic' />
 <img alt='Sass' src="https://img.shields.io/badge/-Sass-CC6699?style=flat&logo=sass&logoColor=white&style=plastic" />
 <img alt='Bootstrap' src='https://img.shields.io/badge/-Bootsrap-7952B3?logo=bootstrap&logoColor=white&style=plastic' />
 <img alt='Jest' src='https://img.shields.io/badge/-Jest-FFA787?logo=jest&logoColor=white&style=plastic' />
+</div>
+<br/>
+
+<div style="display:flex; flex-direction: row; justify-content:flex-start; align-items:center; gap: 5px">
 <img alt='NodeJS' src='https://img.shields.io/badge/-NodeJs-339933?logo=Nodejs&logoColor=white&style=plastic' />
 <img alt='ExpressJS' src='http://img.shields.io/badge/-Express-black?style=flat&logo=express&logoColor=white&style=plastic' />
 <img alt='NPM' src='https://img.shields.io/badge/-NPM-CB3837?style=flat&logo=npm&logoColor=white&style=plastic' />
 <img alt='MongoDB' src='http://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white&style=plastic' />
 <img alt='MySQL' src='https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=plastic' />
-
+</div>
 
 <br/>
 <br/>
