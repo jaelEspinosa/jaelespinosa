@@ -23,9 +23,9 @@ Esto es la realidad de que no siempre los resultados llegan a la primera,  y a v
 ## Certificaciones:
 <br/>
 <div style="display:flex; flex-direction: row; justify-content:flex-start; align-items:center; gap: 5px">
-<img alt='Upgrade' src='./img/upgradeHub.jpg' style = 'width:300px;border-radius: 8px' />
-<img alt='Upgrade' src='./img/reactUdemy.jpg' style = 'width:300px;border-radius: 8px' />
-<img alt='Upgrade' src='./img/nextUdemy.jpg' style = 'width:300px;border-radius: 8px' />
+<img alt='Upgrade' src='./img/upgradeHub.jpg' style = 'width:250px;border-radius: 8px' />
+<img alt='Upgrade' src='./img/reactUdemy.jpg' style = 'width:250px;border-radius: 8px' />
+<img alt='Upgrade' src='./img/nextUdemy.jpg' style = 'width:250px;border-radius: 8px' />
 </div>
 
 ## Tecnologías:
@@ -59,7 +59,7 @@ Esto es la realidad de que no siempre los resultados llegan a la primera,  y a v
 <div style="display:flex; flex-direction: row; justify-content:flex-start; align-items:center; gap: 5px">
 <img alt='MongoDB' src='https://res.cloudinary.com/practicaldev/image/fetch/s--sWV8Y0kc--/c_imagga_scale,f_auto,fl_progressive,h_900,q_auto,w_1600/https://dev-to-uploads.s3.amazonaws.com/i/kml9j34p9taplrnqtcez.jpg' style = 'width:52px;border-radius: 8px' />
 <img alt='MongoDB' src='https://www.solucionex.com/sites/default/files/posts/imagen/git.jpg' style = 'width:52px;border-radius: 8px' />
-<img alt='MongoDB' src='https://www.sngular.com/wp-content/uploads/2021/12/postman-logo-vert-2018.jpg' style = 'width:52px;border-radius: 8px' />
+<img alt='MongoDB' src='https://www.sngular.com/wp-content/uploads/2021/12/postman-logo-vert-2018.jpg' style = 'width:52px;border-radius: 8px;' />
 <img alt='MongoDB' src='https://hackernoon.imgix.net/images/4bi340g.jpg' style = 'width:52px;border-radius: 8px' />
 <img alt='MongoDB' src='https://depor.com/resizer/j85pMfWyvmgc1ZcosJsqhp0bu5E=/580x330/smart/filters:format(jpeg):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/2SNG5DJCANCFHEWZEYYGAMNY7U.jpg' style = 'width:52px;border-radius: 8px' />
 <img alt='MongoDB' src='https://res.cloudinary.com/hevo/image/upload/f_auto,q_auto/v1644903699/hevo-learn/MongoDB-Compass-Mac-MongoDB-Compass-Logo.png?_i=AA' style = 'width:52px;border-radius: 8px' />
