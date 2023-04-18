@@ -35,11 +35,11 @@ DEV Technologies:
 <br/>
 <div style="display:flex; flex-direction: row; justify-content:flex-start; align-items:center; gap: 5px">
 <img alt='ReactJS' src='./img/react-logo.jpg'  style = 'width:82px; height: 30px; border-radius: 8px'/>
-<img alt='ReactJS' src='./img/angular.jpg'  style = 'width:82px; height: 30px; border-radius: 8px'/>
-<img alt='ReactJS' src='./img/javascript.jpeg'  style = 'width:82px; height: 30px; border-radius: 8px'/>
-<img alt='ReactJS' src='./img/typescritpt.png'  style = 'width:82px; height: 30px; border-radius: 8px'/>
-<img alt='ReactJS' src='./img/express.png'  style = 'width:82px; height: 30px; border-radius: 8px'/>
-<img alt='ReactJS' src='./img/sass.png'  style = 'width:82px; height: 30px; border-radius: 8px'/>
+<img alt='AngularJs' src='./img/angular.jpg'  style = 'width:82px; height: 30px; border-radius: 8px'/>
+<img alt='JS' src='./img/javascript.jpeg'  style = 'width:82px; height: 30px; border-radius: 8px'/>
+<img alt='typescritpJS' src='./img/typescritpt.png'  style = 'width:82px; height: 30px; border-radius: 8px'/>
+<img alt='Express' src='./img/express.png'  style = 'width:82px; height: 30px; border-radius: 8px'/>
+<img alt='Sass' src='./img/sass.png'  style = 'width:82px; height: 30px; border-radius: 8px'/>
 
 </div>
 <br/>
