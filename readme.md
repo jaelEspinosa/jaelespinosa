@@ -33,10 +33,12 @@ Esto es la realidad de que no siempre los resultados llegan a la primera,  y a v
 <br/>
 <br/>
 <div style="display:flex; flex-direction: row; justify-content:center; align-items:center; gap: 5px">
-<img alt='ReactJS' src='./img/tecnologias2.png'  />
+<img alt='ReactJS' src='./img/tecnologias_1.png' style="width:550px"/>
 </div>
 
-
+<div style="display:flex; flex-direction: row; justify-content:center; align-items:center; gap: 5px">
+<img alt='github' src='./img/tecnologias_2.png' style="width:400px"/>
+</div>
 
 <br/>
 <hr/>
@@ -45,12 +47,16 @@ Esto es la realidad de que no siempre los resultados llegan a la primera,  y a v
 
 <br/>
 <div style="display:flex; flex-direction: row; justify-content:center; align-items:center; gap: 5px">
-<img alt='github' src='./img/herramientas_sin_fondo.png'  />
-
+<img alt='github' src='./img/herramientas_sin_fondo.png' style="width:450px"  />
 </div>
 <br/>
 <br/>
+<br/>
+<br/>
 
+## Portfolio:
+
+[<img align='left' alt=' jaelEspinosa | LinkedIn' width='320px' src='./img/logoJaelEspinosa2.png' />][portfolio]
 
 
 
@@ -58,5 +64,5 @@ Esto es la realidad de que no siempre los resultados llegan a la primera,  y a v
 [linkedin]:https://www.linkedin.com/in/jose-antonio-espinosa-lucia/
 [Gmail]: mailto:jaelespinosa@gmail.com
 [whatsapp]: https://wa.me/34659795230
-
+[portfolio]:https://jaelespinosa.info
 
