@@ -33,17 +33,19 @@ Esto es la realidad de que no siempre los resultados llegan a la primera,  y a v
 DEV Technologies:
 <br/>
 <br/>
-<div style="display:flex; flex-direction: row; justify-content:flex-start; align-items:center; gap: 5px">
+<div style="display:flex; flex-direction: row; justify-content:center; align-items:center; gap: 5px">
 <img alt='ReactJS' src='./img/react-logo.jpg'  style = 'width:82px; height: 30px; border-radius: 8px'/>
 <img alt='AngularJs' src='./img/angular.jpg'  style = 'width:82px; height: 30px; border-radius: 8px'/>
 <img alt='JS' src='./img/javascript.jpeg'  style = 'width:82px; height: 30px; border-radius: 8px'/>
 <img alt='typescritpJS' src='./img/typescritpt.png'  style = 'width:82px; height: 30px; border-radius: 8px'/>
 <img alt='Express' src='./img/express.png'  style = 'width:82px; height: 30px; border-radius: 8px'/>
-<img alt='Sass' src='./img/sass.png'  style = 'width:82px; height: 30px; border-radius: 8px'/>
+<div style = 'width:80px; height:30px; overflow:hidden; border-radius:8px;'>
+    <img alt='Sass' src='./img/sass.png'  style = 'width:82px; height: 30px'/>
+</div>
 
 </div>
 <br/>
-<div style="display:flex; flex-direction: row; justify-content:flex-start; align-items:center; gap: 5px">
+<div style="display:flex; flex-direction: row; justify-content:center; align-items:center; gap: 5px">
 <img alt='ReactJS' src='./img/Node.JS-1.jpg'  style = 'width:82px; height: 30px; border-radius: 8px'/>
 <img alt='ReactJS' src='./img/npm.png'  style = 'width:82px; height: 30px; border-radius: 8px'/>
 <img alt='ReactJS' src='./img/mongodb.jpg'  style = 'width:82px; height: 30px; border-radius: 8px'/>
