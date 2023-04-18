@@ -39,9 +39,8 @@ DEV Technologies:
 <img alt='JS' src='./img/javascript.jpeg'  style = 'width:82px; height: 30px; border-radius: 8px'/>
 <img alt='typescritpJS' src='./img/typescritpt.png'  style = 'width:82px; height: 30px; border-radius: 8px'/>
 <img alt='Express' src='./img/express.png'  style = 'width:82px; height: 30px; border-radius: 8px'/>
-<div style = 'width:80px; height:30px; overflow:hidden; border-radius:8px;'>
-    <img alt='Sass' src='./img/sass.png'  style = 'width:82px; height: 30px'/>
-</div>
+
+<img alt='Sass' src='./img/sass.png'  style = 'width:82px; height: 30px; border-radius: 8px'/>
 
 </div>
 <br/>
