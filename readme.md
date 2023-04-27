@@ -23,7 +23,7 @@ Esto es la realidad de que no siempre los resultados llegan a la primera,  y a v
 ## Certificaciones:
 <br/>
 <div style="display:flex; flex-direction: row; justify-content:flex-start; align-items:center; gap: 5px">
-<img alt='Upgrade' src='./img/certificaciones.jpg'  />
+<img alt='Upgrade' src='./img/certificaciones_fondotrans.png'  />
 
 </div>
 
