@@ -56,7 +56,7 @@ Esto es la realidad de que no siempre los resultados llegan a la primera,  y a v
 
 ## Portfolio:
 
-[<img align='left' alt=' jaelEspinosa | LinkedIn' width='320px' src='./img/logoJaelEspinosa2.png' />][portfolio]
+[<img align='left' alt=' jaelEspinosa | LinkedIn' width='180px' src='./img/logoJaelEspinosa2.png' />][portfolio]
 
 
 
