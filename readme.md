@@ -21,7 +21,11 @@ Esto es la realidad de que no siempre los resultados llegan a la primera,  y a v
 <br/>
 
 ## Certificaciones:
-<br/>
+
+
+- [Full-Stack][Upgrade] -- [React-Udemy][React] -- [ReactPro-Udemy][React-Pro]
+- [NextJs][Next] -- [Angular-Udemy][Angular]
+
 <div style="display:flex; flex-direction: row; justify-content:flex-start; align-items:center; gap: 5px">
 <img alt='Upgrade' src='./img/certificaciones_fondotrans.png'  />
 
@@ -65,4 +69,9 @@ Esto es la realidad de que no siempre los resultados llegan a la primera,  y a v
 [Gmail]: mailto:jaelespinosa@gmail.com
 [whatsapp]: https://wa.me/34659795230
 [portfolio]:https://jaelespinosa.info
+[Upgrade]: https://www.credential.net/38f27546-365c-4d2a-88e3-e30615a94f4a#gs.wjqez4
+[React]:https://www.udemy.com/certificate/UC-2c16fe1c-fb4c-42af-bb3b-af5f8f01ab48/
+[React-Pro]:https://www.udemy.com/certificate/UC-497f32a0-d9d7-40ee-822e-034c849c28ea/
+[Next]:https://www.udemy.com/certificate/UC-c3c3d526-d4ab-4291-947e-9a01ff66c436/
+[Angular]:https://www.udemy.com/certificate/UC-d73f211a-2d12-431d-8cf0-359d5887c83f/
 
